@@ -7,9 +7,8 @@ import { AdjacentPosts } from '@/sections';
 import PostWidget from '@/components/PostWidget';
 import Categories from '@/components/Categories';
 import PostDetail from '@/components/PostDetail';
-import Comments from '@/components/Comments';
-import CommentsForm from '@/components/CommentsForm';
 import Author from '@/components/Author';
+import Loader from '@/components/Loader';
 
 const PostDetails = ({ post }) => {
   const router = useRouter();
@@ -26,8 +25,6 @@ const PostDetails = ({ post }) => {
             <PostDetail post={post} />
             <Author author={post.author} />
             <AdjacentPosts slug={post.slug} createdAt={post.createdAt} />
-            <CommentsForm slug={post.slug} />
-            <Comments slug={post.slug} />
           </div>
           <div className="col-span-1 lg:col-span-4">
             <div className="relative lg:sticky top-8">
