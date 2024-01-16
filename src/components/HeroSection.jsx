@@ -27,7 +27,7 @@ const HeroSection = () => {
                 1000,
                 "Travel",
                 1000,
-                "LGBTQ",
+                "Proffesional Work",
                 1000,
               ]}
               wrapper="span"
