@@ -51,7 +51,7 @@ const EmailSection = () => {
           {" "}
           We&apos;re currently open for new ideas and versatile to the dynamic changes in our society, our inbox is always
           open. Whether you have a question or just want to say hi, we will
-          try ourvbest to get back to you!
+          try our best to get back to you!
         </p>
       </div>
       <div>
