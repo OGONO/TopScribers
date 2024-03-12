@@ -14,6 +14,7 @@ import Merchandize from "@/components/Merchandize";
 export default function Home({ posts }) {
   return (
     <main className='flex min-h-screen flex-col bg-white' >
+    <meta name="google-site-verification" content="3Q1ldSF6QPGZsNODmNC-D5H1qpdzfkBRDwjA3EX-Hww" />
     <Navbar/>
     <br></br>
     <br></br>
