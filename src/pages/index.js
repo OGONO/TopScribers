@@ -13,15 +13,7 @@ import Merchandize from "@/components/Merchandize";
 
 export default function Home({ posts }) {
   return (
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z10XWTYBFW"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Z10XWTYBFW');
-</script>
+  
     <main className='flex min-h-screen flex-col bg-white' >
 
     <Navbar/>
