@@ -26,6 +26,17 @@ const PostDetails = ({ post }) => {
             <Author author={post.author} />
             <AdjacentPosts slug={post.slug} createdAt={post.createdAt} />
           </div>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
+        crossorigin="anonymous"></script>
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="+5p+ps+3c-i4+il"
+     data-ad-client="ca-pub-8382537736577233"
+     data-ad-slot="8034913784"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
           <div className="col-span-1 lg:col-span-4">
             <div className="relative lg:sticky top-8">
               <PostWidget slug={post.slug} categories={post.categories.map((category) => category.slug)} />
