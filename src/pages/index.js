@@ -7,6 +7,7 @@ import PostWidget from "@/components/PostWidget";
 import Categories from "@/components/Categories";
 import EmailSection from "@/components/EmailSection";
 import Merchandize from "@/components/Merchandize";
+import Script from "next/script";
 
 
 
