@@ -21,6 +21,8 @@ export default function Home({ posts }) {
     <br></br>
       <div className='container mx-auto px-12 py-4'></div>
       <HeroSection/>
+       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
+        crossorigin="anonymous"></script>
       
         <br></br>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
