@@ -21,7 +21,8 @@ export default function Home({ posts }) {
     <br></br>
       <div className='container mx-auto px-12 py-4'></div>
       <HeroSection/>
-       <meta name="google-site-verification" content="SGeL7HJvDTX8GES3uhYpzhWIUTwaLo8xqDoZ7Pez-lU" />
+       <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
+        crossorigin="anonymous"></Script>
          
       
         <br></br>
