@@ -23,17 +23,7 @@ export default function Home({ posts }) {
       <HeroSection/>
        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
         crossorigin="anonymous"></script>
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
-           crossorigin="anonymous"></script>
-            <ins class="adsbygoogle"
-           style="display:block"
-            data-ad-format="fluid"
-            data-ad-layout-key="+5p+ps+3c-i4+il"
-            data-ad-client="ca-pub-8382537736577233"
-            data-ad-slot="8034913784"></ins>
-           <script>
-               (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
+         
       
         <br></br>
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
