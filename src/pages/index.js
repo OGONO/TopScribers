@@ -16,12 +16,15 @@ export default function Home({ posts }) {
   return (
   
     <main className='flex min-h-screen flex-col bg-white' >
+    <Head>
+        <meta name="google-adsense-account" content="ca-pub-3624894722008525" />
+      </Head>
 
     <Navbar/>
     <br></br>
     <br></br>
       <div className='container mx-auto px-12 py-4'></div>
-    <meta name="google-adsense-account" content="ca-pub-3624894722008525">
+    
       <HeroSection/>
        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
         crossorigin="anonymous"></Script>
