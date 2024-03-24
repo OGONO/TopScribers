@@ -4,9 +4,9 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head>
+        <head>
           <meta name="google-adsense-account" content="ca-pub-3624894722008525">
-        </Head>
+        </head>
         <body>
           <Main />
           <NextScript />
