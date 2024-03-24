@@ -17,7 +17,8 @@ export default function Home({ posts }) {
   
     <main className='flex min-h-screen flex-col bg-white' >
      <Head>
-        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
+          crossorigin="anonymous"></script>
       </Head>
 
     <Navbar/>
