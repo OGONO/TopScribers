@@ -23,7 +23,7 @@ export default function Home({ posts }) {
 
     <Navbar/>
     <br></br>
-    <br></br>
+    <br></br
       <div className='container mx-auto px-12 py-4'></div>
     
       <HeroSection/>
