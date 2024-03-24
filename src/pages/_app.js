@@ -1,3 +1,4 @@
+import Head from "next/head";
 import React, { useEffect, useState } from "react";
 import Script from "next/script";
 
@@ -6,7 +7,9 @@ import "../../styles/globals.scss";
 export default function App({ Component, pageProps }) {
   return (
     <>
-    
+    <Head>
+        <meta name="google-adsense-account" content="ca-pub-3624894722008525" />
+      </Head>
   <Script
         strategy="afterInteractive"
         src="https://www.googletagmanager.com/gtag/js?id =G-ETL1YQLSQB"
