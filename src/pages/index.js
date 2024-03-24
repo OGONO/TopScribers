@@ -1,4 +1,4 @@
-import Head from "next/head"
+import head from "next/head"
 import PostCard from "@/components/PostCard";
 import { getPosts } from "../../services"
 import HeroSection from "../../src/components/HeroSection";
@@ -16,9 +16,9 @@ export default function Home({ posts }) {
   return (
   
     <main className='flex min-h-screen flex-col bg-white' >
-    <Head>
+    <head>
         <meta name="google-adsense-account" content="ca-pub-8382537736577233">
-      </Head>
+      </head>
 
     <Navbar/>
     <br></br>
