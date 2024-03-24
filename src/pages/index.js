@@ -13,7 +13,7 @@ import Script from "next/script";
 
 
 export default function Home({ posts }) {
-  return (
+  return 
   
     <main className='flex min-h-screen flex-col bg-white' >
      <Head>
