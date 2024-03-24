@@ -24,6 +24,7 @@ export default function Home({ posts }) {
       <HeroSection/>
        <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8382537736577233"
         crossorigin="anonymous"></Script>
+          <meta name="google-adsense-account" content="ca-pub-3624894722008525">
          
       
         <br></br>
