@@ -17,7 +17,7 @@ export default function Home({ posts }) {
   
     <main className='flex min-h-screen flex-col bg-white' >
     <Head>
-        <meta name="google-adsense-account" content="ca-pub-3624894722008525" />
+        <meta name="google-adsense-account" content="ca-pub-8382537736577233">
       </Head>
 
     <Navbar/>
