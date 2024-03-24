@@ -6,6 +6,7 @@ import "../../styles/globals.scss";
 export default function App({ Component, pageProps }) {
   return (
     <>
+    <meta name="google-adsense-account" content="ca-pub-3624894722008525">
   <Script
         strategy="afterInteractive"
         src="https://www.googletagmanager.com/gtag/js?id =G-ETL1YQLSQB"
