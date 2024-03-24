@@ -4,7 +4,7 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="en">
-        <Head> <meta name="google-adsense-account" content="ca-pub-8382537736577233"> </Head>
+        <Head  meta name="google-adsense-account" content="ca-pub-8382537736577233"/> 
           
         
         <body>
